@@ -5,4 +5,4 @@ Some of the algorithms implemented in the Informations and Computer Networks Sec
 - DES  
 - AES  
 - RSA  
-- El-Gamal
+- ElGamal
